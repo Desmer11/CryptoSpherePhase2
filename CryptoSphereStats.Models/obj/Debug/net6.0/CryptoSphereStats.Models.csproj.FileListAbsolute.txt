@@ -1,0 +1,11 @@
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\bin\Debug\net6.0\CryptoSphereStats.Models.deps.json
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\bin\Debug\net6.0\CryptoSphereStats.Models.dll
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\bin\Debug\net6.0\CryptoSphereStats.Models.pdb
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\obj\Debug\net6.0\CryptoSphereStats.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\obj\Debug\net6.0\CryptoSphereStats.Models.AssemblyInfoInputs.cache
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\obj\Debug\net6.0\CryptoSphereStats.Models.AssemblyInfo.cs
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\obj\Debug\net6.0\CryptoSphereStats.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\obj\Debug\net6.0\CryptoSphereStats.Models.dll
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\obj\Debug\net6.0\refint\CryptoSphereStats.Models.dll
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\obj\Debug\net6.0\CryptoSphereStats.Models.pdb
+C:\Users\Jsn\source\repos\Projects\CryptoSphereStats\CryptoSphereStats.Models\obj\Debug\net6.0\ref\CryptoSphereStats.Models.dll
